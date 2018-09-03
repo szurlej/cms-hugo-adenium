@@ -1,7 +1,7 @@
 ---
 title: Grow with confidence
 subtitle: All you need to know
-image: /img/img_7048-min.jpg
+image: /img/img_7044-2.jpg
 blurb:
   heading: Why Adenio?
   text: >-
