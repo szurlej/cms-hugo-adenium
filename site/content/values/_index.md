@@ -1,13 +1,10 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: /img/img_7048-2.jpg
 values:
   - heading: Hand-raised trees
-    imageUrl: /img/img_7030-min.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+    imageUrl: /img/img_6921-2.jpg
+    text: |
+      Each plant grown from seed in our gardens, and lovingly cared for.
 ---
 
