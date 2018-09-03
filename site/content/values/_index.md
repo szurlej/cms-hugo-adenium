@@ -1,9 +1,9 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: /img/img_7048-2.jpg
 values:
   - heading: Hand-raised trees
-    imageUrl: /img/img_7030-min.jpg
+    imageUrl: /img/img_7030-2.jpg
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
