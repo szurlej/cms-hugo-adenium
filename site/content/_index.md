@@ -3,10 +3,10 @@ title: Grow with confidence
 subtitle: All you need to know
 image: /img/img_7044-2.jpg
 blurb:
-  heading: Why Adenio?
+  heading: Have an Adenium?
   text: >-
-    Adeniois the one stop location to learn everything there is to know about
-    growing, caring for, Adeniums.
+    Welcome to the one-stop location to learn everything you wanted to know
+    about Adeniums. Planting, growing, and caring for your plants.
 intro:
   heading: ''
   text: ''
