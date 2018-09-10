@@ -16,7 +16,7 @@ intro:
     knowledge to anyone.
 products: []
 values:
-  heading: Our values
-  text: We want to empower you to grow the best plants possible.
+  heading: ''
+  text: ''
 ---
 
